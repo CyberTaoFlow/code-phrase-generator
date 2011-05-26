@@ -20,6 +20,7 @@ Code Phrase Generator
 
 PREFIXES = [
 'Artisan',
+'Azure',
 'Alpha',
 'Bravo',
 'Charlie',
@@ -58,11 +59,20 @@ PREFIXES = [
 'Red',
 'Violet',
 'Yellow',
-'Silver'
+'Silver',
+'Solar',
+'Sunrise',
+'Crescent',
+'Relentless',
+'Polar'
 ]
 
 CODEWORDS = [
+'Mavrick',
+'Diesel',
+'Cobra',
 'Abacus',
+'Thunder'
 'Bright',
 'Condor',
 'Eclipse',

@@ -1,0 +1,280 @@
+TCode Phrase Generator
+v7
+r0
+t328066440.994698
+cCheck dependencies
+cProcessInfoPlistFile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Info.plist" Code_Phrase_Generator-Info.plist
+cCopyStringsFile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch.gch Code_Phrase_Generator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch.gch Code_Phrase_Generator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/main.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code_Phrase_GeneratorAppDelegate.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/main.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code_Phrase_GeneratorAppDelegate.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.h
+c000000004DDD8D5500000000000002A8
+t1306365269
+s680
+i<Cocoa/Cocoa.h>
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m
+c000000004DDDAD830000000000001D97
+t1306373507
+s7575
+i"Code_Phrase_GeneratorAppDelegate.h"
+i<stdlib.h>
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator_Prefix.pch
+c000000004DD9C3DF00000000000000AD
+t1306117087
+s173
+i<Cocoa/Cocoa.h>
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/InfoPlist.strings
+c000000004DD9C3DF000000000000002D
+t1306117087
+s45
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib
+c000000004DDDADF4000000000002F612
+t1306373620
+s194066
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code Phrase Generator
+t2
+s0
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code Phrase Generator.LinkFileList
+c000000004DDDAE01000000000000014E
+t1306373633
+s334
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code_Phrase_GeneratorAppDelegate.o
+t2
+s0
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/main.o
+t1306373640
+s4884
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator
+t1306373640
+s38208
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator.LinkFileList
+c000000004DDDAE010000000000000152
+t1306373633
+s338
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code_Phrase_GeneratorAppDelegate.o
+t1306373640
+s72112
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/main.o
+t1306373640
+s5088
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app
+t2
+s0
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app.dSYM
+t2
+s0
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Info.plist
+t1306373633
+s1326
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/MacOS/Code Phrase Generator
+t2
+s0
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/PkgInfo
+t1306373633
+s8
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306373633
+s92
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306373633
+s36966
+
+N/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m
+c000000004DD9C3DF000000000000010F
+t1306117087
+s271
+i<Cocoa/Cocoa.h>
+
+N/var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch.gch
+t1306373640
+s52958992
+
+N/var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch.gch
+t1306373640
+s55592752
+
+NCode_Phrase_Generator-Info.plist
+c000000004DD9C3DF00000000000003EA
+t1306117087
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328066433#328066433#0(0"0(0#1#0"8605983200#0"0#
+
+CCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code_Phrase_GeneratorAppDelegate.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328066440.468704
+e328066440.691172
+r0
+xCompileC
+xbuild/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code_Phrase_GeneratorAppDelegate.o
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:14: error: synthesized property 'window' must either be named the same as a compatible ivar or must explicitly name an ivar
+o/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:15: error: synthesized property 'prefixField' must either be named the same as a compatible ivar or must explicitly name an ivar
+o/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:16: error: synthesized property 'wordlist' must either be named the same as a compatible ivar or must explicitly name an ivar
+o/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:17: error: synthesized property 'textField' must either be named the same as a compatible ivar or must explicitly name an ivar
+lSLF07#2@98"Compile /Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066440#328066440#0(870"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:14: error: synthesized property 'window' must either be named the same as a compatible ivar or must explicitly name an ivar/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:15: error: synthesized property 'prefixField' must either be named the same as a compatible ivar or must explicitly name an ivar/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:16: error: synthesized property 'wordlist' must either be named the same as a compatible ivar or must explicitly name an ivar/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m:17: error: synthesized property 'textField' must either be named the same as a compatible ivar or must explicitly name an ivar4(4@112"Synthesized property 'window' must either be named the same as a compatible ivar or must explicitly name an ivar328066440#0#215#0(6@90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066307#14#0#14#0#0"0(4@117"Synthesized property 'prefixField' must either be named the same as a compatible ivar or must explicitly name an ivar328066440#215#220#0(6@90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066307#15#0#15#0#0"0(4@114"Synthesized property 'wordlist' must either be named the same as a compatible ivar or must explicitly name an ivar328066440#435#217#0(6@90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066307#16#0#16#0#0"0(4@115"Synthesized property 'textField' must either be named the same as a compatible ivar or must explicitly name an ivar328066440#652#218#0(6@90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066307#17#0#17#0#0"0(0#0#90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m8613270976#2025"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/i386" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -include /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code_Phrase_GeneratorAppDelegate.o"1#
+
+CCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/main.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328066440.467629
+e328066440.688024
+r1
+xCompileC
+xbuild/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/main.o
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m328066440#328066440#0(0"0(0#0#62"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m8616755520#1969"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/i386" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -include /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code_Phrase_GeneratorAppDelegate.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328066440.466700
+e328066440.922754
+r1
+xCompileC
+xbuild/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code_Phrase_GeneratorAppDelegate.o
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m328066440#328066440#0(0"0(0#0#90"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m8618004928#2031"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/x86_64" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -include /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_GeneratorAppDelegate.m" -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code_Phrase_GeneratorAppDelegate.o"0#
+
+CCompileC "build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/main.o" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328066440.464936
+e328066440.650288
+r1
+xCompileC
+xbuild/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/main.o
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m328066440#328066440#0(0"0(0#0#62"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m8619600096#1975"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/x86_64" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -include /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/main.m" -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib"
+s328066433.318049
+e328066433.664876
+r1
+xCompileXIB
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328066433#328066433#0(0"0(0#0#82"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib8610895680#437"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s328066433.316824
+e328066433.654179
+r1
+xCopyStringsFile
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328066433#328066433#0(0"0(0#0#87"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/English.lproj/InfoPlist.strings8612449984#419"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/MacOS/Code Phrase Generator" normal "x86_64 i386"
+r0
+
+CGenerateDSYMFile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app.dSYM" "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/MacOS/Code Phrase Generator"
+r0
+
+CLd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/i386/Code Phrase Generator" normal i386
+r0
+
+CLd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator" normal x86_64
+s328066440.922848
+e328066440.994612
+r1
+xLd
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator
+xnormal
+xx86_64
+lSLF07#2@174"Link /Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator328066440#328066440#0(0"0(0#0#0"8604978624#752"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" -filelist "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Objects-normal/x86_64/Code Phrase Generator"0#
+
+CProcessInfoPlistFile "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Info.plist" Code_Phrase_Generator-Info.plist
+s328066433.312369
+e328066433.316712
+r1
+xProcessInfoPlistFile
+x/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Info.plist
+xCode_Phrase_Generator-Info.plist
+lSLF07#2@40"Process Code_Phrase_Generator-Info.plist328066433#328066433#0(0"0(0#0#88"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator-Info.plist8617245984#413"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    builtin-infoPlistUtility Code_Phrase_Generator-Info.plist -genpkginfo "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch.gch Code_Phrase_Generator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328066433.665044
+e328066440.191202
+r1
+xProcessPCH
+x/var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch.gch
+xCode_Phrase_Generator_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Code_Phrase_Generator_Prefix.pch328066433#328066440#0(0"0(0#0#88"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator_Prefix.pch8618108928#1846"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/x86_64" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator_Prefix.pch" -o /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-avsfaaccoeeyqohcdvcvvmprjlaz/Code_Phrase_Generator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch.gch Code_Phrase_Generator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328066433.666185
+e328066440.464836
+r1
+xProcessPCH
+x/var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch.gch
+xCode_Phrase_Generator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Code_Phrase_Generator_Prefix.pch328066433#328066440#0(0"0(0#0#88"/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator_Prefix.pch8617705440#1842"    cd "/Users/mentat/Developer/CocoaBook/Code Phrase Generator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-generated-files.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-own-target-headers.hmap" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-all-target-headers.hmap" -iquote "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/Code Phrase Generator-project-headers.hmap" "-F/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/include" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources/i386" "-I/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Code Phrase Generator.build/Release/Code Phrase Generator.build/DerivedSources" -c "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/Code_Phrase_Generator_Prefix.pch" -o /var/folders/9l/9luD0imQGTuAy9BY8CnPyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Code_Phrase_Generator_Prefix-ghnflqkizhuodefwfoubjndtztny/Code_Phrase_Generator_Prefix.pch.gch0#
+
+CTouch "/Users/mentat/Developer/CocoaBook/Code Phrase Generator/build/Release/Code Phrase Generator.app"
+r0
+
