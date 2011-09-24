@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Code Phrase Generator' target in the 'Code Phrase Generator' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
