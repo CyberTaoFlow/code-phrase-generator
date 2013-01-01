@@ -14,9 +14,9 @@ import random
 
 help_message = '''
 Code Phrase Generator
--n or --number: Number of sample code phrases given. (Default is 5)
--p or --prefix: Uses a prefix word along with a random codeword instead of two codewords.
--w or --wordlist: Uses another wordlist to generate code phrases from.
+-n <x> or --number <x>: Number of sample code phrases given. (Default is 5)
+-p <prefix> or --prefix <prefix>: Uses a prefix word along with a random codeword instead of two codewords.
+-w <file> or --wordlist <file>: Uses another wordlist to generate code phrases from.
 '''
 
 CODEWORDS = open('wordlist.txt', 'r').readlines()
