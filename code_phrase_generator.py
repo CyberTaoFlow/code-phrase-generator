@@ -3209,7 +3209,7 @@ def main(argv=None):
         argv = sys.argv
     try:
         try:
-            opts, args = getopt.getopt(argv[1:], "hn:p:i:v", ["help", "number=", "prefix=", "import="])
+            opts, args = getopt.getopt(argv[1:], "hn:p:i:vw:", ["help", "number=", "prefix=", "wordlist="])
         except getopt.error, msg:
             raise Usage(msg)
     
@@ -3221,6 +3221,10 @@ def main(argv=None):
                 raise Usage(help_message)
             if option in ("-n", "--number"):
                 number = int(value)
+            if option in ("-w", "--wordlist"):
+            	global CODEWORDS
+            	print "Importing: %s" % value
+            	CODEWORDS = open(value, 'r').readlines()
             if option in ("-p", "--prefixe"):
                 
                 print value
