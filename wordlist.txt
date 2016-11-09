@@ -6,7 +6,6 @@ absolution
 accent
 accolade
 ace
-guard
 acer
 acid
 acorn
@@ -1230,6 +1229,7 @@ grizzly
 groom
 ground
 grove
+guard
 guardian
 guardrail
 guide
